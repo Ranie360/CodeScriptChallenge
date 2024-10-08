@@ -835,9 +835,7 @@ input[type=number]::-webkit-inner-spin-button {
   grid-area: recaptcha;
   padding-left: 2rem;
   padding-bottom: 2rem;
-  /* flex-flow: column; */
   justify-content: space-between;
-  /* align-content: center; */
 }
 
 .g-recaptcha {
@@ -847,10 +845,10 @@ input[type=number]::-webkit-inner-spin-button {
 
 .error-message {
   font-weight: bold;
-  color: red; /* Define a cor do texto como vermelho */
-  font-size: 2rem; /* Ajuste o tamanho da fonte conforme necessário */
-  display: block; /* Garante que a mensagem de erro seja exibida em bloco */
-  margin-top: 0.5rem; /* Adiciona um espaçamento superior */
+  color: red; 
+  font-size: 2rem; 
+  display: block; 
+  margin-top: 0.5rem;
 }
 
 /* POLITICA */
