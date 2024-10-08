@@ -6,7 +6,7 @@
       <div class="container container-rodape">
         <img
           src="./imagens/Brand-CodeScript-Gradient-Color-Blue-Font-White-2.svg"
-          alt="icone hashtag"
+          alt="icone CodeScript"
           class="logo-footer"
         />
   
@@ -14,7 +14,7 @@
           <div class="subsecao-rodape">
             <img
               src="./imagens/Brand-CodeScript-Gradient-Color-Blue-Font-White-2.svg"
-              alt="icone hashtag"
+              alt="icone codescript"
               class="logo-footer-media"
             />
             <img
@@ -170,7 +170,7 @@
   
           <hr />
           <p class="rodape-copyright">
-            © 2024 Hashtag Treinamentos. Todos os Direitos Reservados
+            © 2024 CodeScript Tecnologia. Todos os Direitos Reservados
           </p>
         </div>
   
