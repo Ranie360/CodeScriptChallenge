@@ -1,3 +1,4 @@
+// O link do Whatsapp não foi adc, ficou apenas o geral
 (() => {
   const run = () => {
     const footer = document.getElementById("footer");
